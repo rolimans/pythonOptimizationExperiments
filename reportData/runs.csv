@@ -1,0 +1,15 @@
+,algorithm,runArg,meanTime,meanFunctionCalls,description
+0,minCoinsToValue,10,0.00021615989999900002,338,Recursive
+1,minCoinsToValueCached,10,6.0561400000000006e-05,39,Recursive with Memoization
+2,minCoinsToValue,15,0.0015048337999990001,3740,Recursive
+3,minCoinsToValueCached,15,7.225660000000002e-05,59,Recursive with Memoization
+4,minCoinsToValue,20,0.014993122900000001,41474,Recursive
+5,minCoinsToValueCached,20,0.00010699260000000001,79,Recursive with Memoization
+6,minCoinsToValue,25,0.16234361890000001,459942,Recursive
+7,minCoinsToValueCached,25,0.000100448899999,99,Recursive with Memoization
+8,minCoinsToValue,30,1.7741340096999991,5100818,Recursive
+9,minCoinsToValueCached,30,0.0001144012,119,Recursive with Memoization
+10,minCoinsToValue,35,19.9450543608,56568930,Recursive
+11,minCoinsToValueCached,35,0.00012202930000000001,139,Recursive with Memoization
+12,minCoinsToValue,40,231.4684651708,627359044,Recursive
+13,minCoinsToValueCached,40,0.0001391567,159,Recursive with Memoization
